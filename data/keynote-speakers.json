@@ -1,0 +1,30 @@
+{
+  "title": "Distinguished Speakers",
+  "description": "Learn from world-renowned experts who are shaping the future of information technologies and systems",
+  "speakers": [
+    {
+      "name": "Dr. Sarah Chen",
+      "title": "Chief Technology Officer",
+      "company": "Global Tech Innovations",
+      "topic": "The Future of AI in Information Systems",
+      "bio": "Dr. Chen is a renowned expert in artificial intelligence and machine learning with over 15 years of experience in developing cutting-edge information systems.",
+      "image": "/placeholder.svg?height=300&width=300"
+    },
+    {
+      "name": "Prof. Michael Rodriguez",
+      "title": "Director of Cybersecurity Research",
+      "company": "MIT Technology Institute",
+      "topic": "Securing the Digital Future: Challenges and Opportunities",
+      "bio": "Professor Rodriguez leads groundbreaking research in cybersecurity and has published over 100 papers on information security and privacy.",
+      "image": "/placeholder.svg?height=300&width=300"
+    },
+    {
+      "name": "Dr. Aisha Patel",
+      "title": "Head of Data Science",
+      "company": "DataFlow Corporation",
+      "topic": "Big Data Analytics: Transforming Business Intelligence",
+      "bio": "Dr. Patel specializes in big data analytics and has helped numerous organizations leverage data for strategic decision-making.",
+      "image": "/placeholder.svg?height=300&width=300"
+    }
+  ]
+}

@@ -1,0 +1,252 @@
+{
+  "title": "Program Schedule",
+  "description": "Three days of cutting-edge research, networking, and knowledge sharing",
+  "schedule": [
+    {
+      "day": "Day 1 - August 20, 2026",
+      "events": [
+        {
+          "time": "08:00 - 09:00",
+          "title": "Registration & Welcome Coffee",
+          "type": "break",
+          "location": "Main Lobby"
+        },
+        {
+          "time": "09:00 - 09:30",
+          "title": "Opening Ceremony",
+          "type": "ceremony",
+          "location": "Main Auditorium",
+          "speaker": "Conference Chairs"
+        },
+        {
+          "time": "09:30 - 10:30",
+          "title": "Keynote: The Future of AI in Information Systems",
+          "type": "keynote",
+          "location": "Main Auditorium",
+          "speaker": "Dr. Sarah Chen"
+        },
+        {
+          "time": "10:30 - 11:00",
+          "title": "Coffee Break",
+          "type": "break",
+          "location": "Exhibition Hall"
+        },
+        {
+          "time": "11:00 - 12:30",
+          "title": "Session 1A: Machine Learning Applications",
+          "type": "session",
+          "location": "Room A",
+          "papers": 6
+        },
+        {
+          "time": "11:00 - 12:30",
+          "title": "Session 1B: Cybersecurity Frameworks",
+          "type": "session",
+          "location": "Room B",
+          "papers": 6
+        },
+        {
+          "time": "12:30 - 14:00",
+          "title": "Lunch Break",
+          "type": "break",
+          "location": "Restaurant Terrace"
+        },
+        {
+          "time": "14:00 - 15:30",
+          "title": "Session 2A: Cloud Computing",
+          "type": "session",
+          "location": "Room A",
+          "papers": 6
+        },
+        {
+          "time": "14:00 - 15:30",
+          "title": "Session 2B: IoT Systems",
+          "type": "session",
+          "location": "Room B",
+          "papers": 6
+        },
+        {
+          "time": "15:30 - 16:00",
+          "title": "Coffee Break",
+          "type": "break",
+          "location": "Exhibition Hall"
+        },
+        {
+          "time": "16:00 - 17:30",
+          "title": "Panel Discussion: Future of Information Systems",
+          "type": "panel",
+          "location": "Main Auditorium"
+        },
+        {
+          "time": "19:00 - 22:00",
+          "title": "Welcome Reception",
+          "type": "social",
+          "location": "Hotel Sahrai Terrace"
+        }
+      ]
+    },
+    {
+      "day": "Day 2 - August 21, 2026",
+      "events": [
+        {
+          "time": "09:00 - 10:00",
+          "title": "Keynote: Securing the Digital Future",
+          "type": "keynote",
+          "location": "Main Auditorium",
+          "speaker": "Prof. Michael Rodriguez"
+        },
+        {
+          "time": "10:00 - 10:30",
+          "title": "Coffee Break",
+          "type": "break",
+          "location": "Exhibition Hall"
+        },
+        {
+          "time": "10:30 - 12:00",
+          "title": "Session 3A: Big Data Analytics",
+          "type": "session",
+          "location": "Room A",
+          "papers": 6
+        },
+        {
+          "time": "10:30 - 12:00",
+          "title": "Session 3B: Human-Computer Interaction",
+          "type": "session",
+          "location": "Room B",
+          "papers": 6
+        },
+        {
+          "time": "10:30 - 12:00",
+          "title": "Session 3C: Blockchain Technology",
+          "type": "session",
+          "location": "Room C",
+          "papers": 6
+        },
+        {
+          "time": "12:00 - 13:30",
+          "title": "Lunch Break",
+          "type": "break",
+          "location": "Restaurant Terrace"
+        },
+        {
+          "time": "13:30 - 15:00",
+          "title": "Session 4A: Software Engineering",
+          "type": "session",
+          "location": "Room A",
+          "papers": 6
+        },
+        {
+          "time": "13:30 - 15:00",
+          "title": "Session 4B: Database Systems",
+          "type": "session",
+          "location": "Room B",
+          "papers": 6
+        },
+        {
+          "time": "15:00 - 15:30",
+          "title": "Coffee Break",
+          "type": "break",
+          "location": "Exhibition Hall"
+        },
+        {
+          "time": "15:30 - 17:00",
+          "title": "Industry Session: Technology Trends",
+          "type": "industry",
+          "location": "Main Auditorium"
+        },
+        {
+          "time": "17:00 - 18:00",
+          "title": "Poster Session",
+          "type": "poster",
+          "location": "Exhibition Hall"
+        },
+        {
+          "time": "20:00 - 23:00",
+          "title": "Conference Dinner",
+          "type": "social",
+          "location": "Riad Fes"
+        }
+      ]
+    },
+    {
+      "day": "Day 3 - August 22, 2026",
+      "events": [
+        {
+          "time": "09:00 - 10:00",
+          "title": "Keynote: Big Data Analytics Revolution",
+          "type": "keynote",
+          "location": "Main Auditorium",
+          "speaker": "Dr. Aisha Patel"
+        },
+        {
+          "time": "10:00 - 10:30",
+          "title": "Coffee Break",
+          "type": "break",
+          "location": "Exhibition Hall"
+        },
+        {
+          "time": "10:30 - 12:00",
+          "title": "Session 5A: Mobile Computing",
+          "type": "session",
+          "location": "Room A",
+          "papers": 6
+        },
+        {
+          "time": "10:30 - 12:00",
+          "title": "Session 5B: Network Technologies",
+          "type": "session",
+          "location": "Room B",
+          "papers": 6
+        },
+        {
+          "time": "12:00 - 13:30",
+          "title": "Lunch Break",
+          "type": "break",
+          "location": "Restaurant Terrace"
+        },
+        {
+          "time": "13:30 - 15:00",
+          "title": "Session 6A: Information Systems Management",
+          "type": "session",
+          "location": "Room A",
+          "papers": 6
+        },
+        {
+          "time": "13:30 - 15:00",
+          "title": "Session 6B: Emerging Technologies",
+          "type": "session",
+          "location": "Room B",
+          "papers": 6
+        },
+        {
+          "time": "15:00 - 15:30",
+          "title": "Coffee Break",
+          "type": "break",
+          "location": "Exhibition Hall"
+        },
+        {
+          "time": "15:30 - 16:30",
+          "title": "Best Paper Awards & Closing Ceremony",
+          "type": "ceremony",
+          "location": "Main Auditorium"
+        },
+        {
+          "time": "16:30 - 17:00",
+          "title": "Farewell Reception",
+          "type": "social",
+          "location": "Main Lobby"
+        }
+      ]
+    }
+  ],
+  "eventTypes": [
+    { "type": "keynote", "color": "blue", "label": "Keynote" },
+    { "type": "session", "color": "green", "label": "Technical Session" },
+    { "type": "break", "color": "orange", "label": "Break" },
+    { "type": "social", "color": "purple", "label": "Social Event" },
+    { "type": "panel", "color": "cyan", "label": "Panel" },
+    { "type": "industry", "color": "yellow", "label": "Industry" },
+    { "type": "poster", "color": "pink", "label": "Poster" },
+    { "type": "ceremony", "color": "red", "label": "Ceremony" }
+  ]
+}

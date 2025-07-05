@@ -1,0 +1,66 @@
+{
+  "title": "Meet Our Team",
+  "description": "Distinguished researchers and professionals working together to make WITS 2026 a success",
+  "organizingCommittee": [
+    {
+      "name": "Prof. Ahmed Benali",
+      "role": "General Chair",
+      "affiliation": "Mohammed V University, Morocco",
+      "image": "/placeholder.svg?height=150&width=150"
+    },
+    {
+      "name": "Dr. Maria Santos",
+      "role": "Program Chair",
+      "affiliation": "University of Barcelona, Spain",
+      "image": "/placeholder.svg?height=150&width=150"
+    },
+    {
+      "name": "Prof. James Wilson",
+      "role": "Program Co-Chair",
+      "affiliation": "Stanford University, USA",
+      "image": "/placeholder.svg?height=150&width=150"
+    },
+    {
+      "name": "Dr. Fatima El-Mansouri",
+      "role": "Local Arrangements Chair",
+      "affiliation": "Hassan II University, Morocco",
+      "image": "/placeholder.svg?height=150&width=150"
+    }
+  ],
+  "steeringCommittee": [
+    {
+      "name": "Prof. Michael Thompson",
+      "affiliation": "Carnegie Mellon University, USA",
+      "role": "Chair"
+    },
+    {
+      "name": "Prof. Yuki Nakamura",
+      "affiliation": "University of Tokyo, Japan",
+      "role": "Vice Chair"
+    },
+    {
+      "name": "Dr. Sophie Laurent",
+      "affiliation": "INRIA, France",
+      "role": "Secretary"
+    },
+    {
+      "name": "Prof. Antonio Silva",
+      "affiliation": "University of São Paulo, Brazil",
+      "role": "Treasurer"
+    }
+  ],
+  "programCommittee": [
+    { "name": "Prof. Robert Chen", "affiliation": "MIT, USA" },
+    { "name": "Dr. Elena Rossi", "affiliation": "University of Milan, Italy" },
+    { "name": "Prof. Hiroshi Tanaka", "affiliation": "Tokyo Institute of Technology, Japan" },
+    { "name": "Dr. Sarah Johnson", "affiliation": "Oxford University, UK" },
+    { "name": "Prof. Klaus Mueller", "affiliation": "Technical University of Munich, Germany" },
+    { "name": "Dr. Priya Sharma", "affiliation": "Indian Institute of Technology, India" },
+    { "name": "Prof. Jean Dubois", "affiliation": "Sorbonne University, France" },
+    { "name": "Dr. Carlos Rodriguez", "affiliation": "Universidad Politécnica de Madrid, Spain" },
+    { "name": "Prof. Lisa Anderson", "affiliation": "University of Toronto, Canada" },
+    { "name": "Dr. Mohammed Al-Rashid", "affiliation": "King Saud University, Saudi Arabia" },
+    { "name": "Prof. Anna Kowalski", "affiliation": "Warsaw University of Technology, Poland" },
+    { "name": "Dr. David Kim", "affiliation": "Seoul National University, South Korea" }
+  ]
+}

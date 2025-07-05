@@ -1,0 +1,80 @@
+{
+  "title": "Register for WITS 2026",
+  "description": "Secure your spot at the premier conference on information technologies and systems",
+  "pricingTiers": [
+    {
+      "type": "Early Bird (Until May 1)",
+      "academic": "€450",
+      "industry": "€650",
+      "student": "€250",
+      "bestValue": true,
+      "features": [
+        "All conference sessions",
+        "Welcome reception",
+        "Coffee breaks",
+        "Conference materials",
+        "Certificate"
+      ]
+    },
+    {
+      "type": "Regular (Until July 1)",
+      "academic": "€550",
+      "industry": "€750",
+      "student": "€300",
+      "bestValue": false,
+      "features": [
+        "All conference sessions",
+        "Welcome reception",
+        "Coffee breaks",
+        "Conference materials",
+        "Certificate"
+      ]
+    },
+    {
+      "type": "Late Registration",
+      "academic": "€650",
+      "industry": "€850",
+      "student": "€350",
+      "bestValue": false,
+      "features": [
+        "All conference sessions",
+        "Welcome reception",
+        "Coffee breaks",
+        "Conference materials",
+        "Certificate"
+      ]
+    }
+  ],
+  "additionalOptions": [
+    {
+      "id": "dinner",
+      "label": "Conference Dinner",
+      "price": 75
+    },
+    {
+      "id": "proceedings",
+      "label": "Printed Proceedings",
+      "price": 25
+    },
+    {
+      "id": "tour",
+      "label": "City Tour",
+      "price": 50
+    }
+  ],
+  "registrationIncludes": [
+    "Access to all conference sessions and keynotes",
+    "Welcome reception and networking events",
+    "Coffee breaks and light refreshments",
+    "Conference materials and proceedings (digital)",
+    "Certificate of attendance",
+    "Access to exhibition area"
+  ],
+  "cancellationPolicy": [
+    "Full refund until July 1, 2026",
+    "50% refund until August 1, 2026",
+    "No refund after August 1, 2026",
+    "Substitutions allowed at any time",
+    "Processing fee of €25 applies to all refunds"
+  ]
+}
